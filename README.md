@@ -38,6 +38,5 @@ Bu React Native uygulaması, kullanıcı profillerini listelemeyi, kullanıcı d
 - **Görev Yönetimi**: Kullanıcıların görevleri görüntülenebilir, görevler eklenebilir ve silinebilir.
 - **Yeni Görev Ekleme**: Kullanıcılar yeni görevler ekleyebilir.
 
-! []# user-profile-react-native
-# user-task-native
-# user-task-native
+! [](https://github.com/Rasime-Dumlupunar/user-profile-react-native/blob/main/user-task.gif)
+
